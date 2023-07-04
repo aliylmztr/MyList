@@ -19,8 +19,8 @@ public class Main {
 
         System.out.println("Indeks : " + list.lastIndexOf(20));
 
-        Object[] dizi = list.toArray();
-        System.out.println("Object dizisinin ilk elemanı : " + dizi[0]);
+        Object[] array = list.toArray();
+        System.out.println("Object dizisinin ilk elemanı : " + array[0]);
 
         MyList<Integer> mySubList = list.subList(0, 3);
         System.out.println(mySubList.toString());
