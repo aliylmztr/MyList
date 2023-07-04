@@ -28,7 +28,7 @@ public class MyList<T> {
             this.sizeCalculate();
         } else {
             this.capacity = this.capacity * 2;
-            this.pCapacity();
+            this.updateCapacity();
             this.add(data);
         }
     }
@@ -121,7 +121,7 @@ public class MyList<T> {
         this.list = (T[]) new Object[this.capacity];
     }
 
-    public void pCapacity() {
+    public void updateCapacity() {
         this.listTemp = (T[]) new Object[this.capacity];
         for (int i = 0; i < this.list.length; i++) {
             this.listTemp[i] = this.list[i];
