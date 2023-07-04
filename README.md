@@ -19,7 +19,7 @@ NOT : COLLECTION SINIFI KULLANILMAYACAKTIR ! KENDİ LİSTE SINIFIMIZI OLUŞTURMA
 
 ----------------------------------------------
 
-Sınıf özellikleri :
+Sınıf Özellikleri :
 
 ----------------------------------------------
 
