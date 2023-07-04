@@ -7,7 +7,7 @@ Writing Our Own List Class with Java
 
 ----------------------------------------------
 
-Kendi Liste Sınıfımızı Yazmak
+KENDİ LİSTE SINIFIMIZI YAZMAK
 
 ----------------------------------------------
 
